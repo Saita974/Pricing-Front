@@ -10,11 +10,15 @@
   margin: 20px 40px auto 20px;
 }
 
-.card-structure{
+.card-structure-green{
   color: white;
   /* margin-top: 60px;
   margin-left: 40px;
   margin-right: 40px; */
+  margin: 60px 40px auto 40px;
+}
+
+.card-structure{
   margin: 60px 40px auto 40px;
 }
 
