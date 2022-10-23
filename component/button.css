@@ -14,7 +14,8 @@
 }
 
 .button-choose{
-  display: flex;
+  display: flexbox;
+  align-items: flex-end;
 }
 
 a{
