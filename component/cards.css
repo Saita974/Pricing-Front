@@ -1,0 +1,121 @@
+.container-presentation{
+  display: flex;
+}
+
+.card{
+  height: 668px;
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 200px #0c09153e;
+  margin: 20px 40px auto 20px;
+}
+
+.card-structure{
+  color: white;
+  /* margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px; */
+  margin: 60px 40px auto 40px;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+
+}
+
+h2{
+  color: #A9A9AA;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+#title-plan{
+  font-weight: bold;
+  margin-top: 9px;
+}
+
+#title-save{
+  margin-bottom: 0;
+}
+
+a{
+  background-color: aliceblue;
+}
+
+#green-back {
+  background-color: #2E6434;
+}
+
+#para-pres{
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+#icon-pres{
+  margin-top: 30px;
+  margin-left: 5px;
+}
+
+#image-girl{
+  position: absolute;
+  left: -161px;
+  top: 268px;
+  /* border-bottom-right-radius: 60px 600px;
+  border-bottom-left-radius: 20%; */
+  overflow: hidden;
+}
+
+.offer-color{
+  color: #0c0915;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.descrip-color{
+  color: #0c0915;
+}
+
+.fa-circle-check{
+  color: #0c0915;
+  margin-right: 10px;
+}
+
+.fa-circle-check p{
+  display: flex;
+  justify-content: left;
+}
+
+.fa-crab{
+  color: #0c0915;
+}
+
+.descript-offer{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+}
+
+.descript-height{
+  margin-bottom: 25px;
+}
+
+hr{
+  border: 1px dashed #A9A9AA;
+}
+
+.price-pass{
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
