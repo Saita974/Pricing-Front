@@ -34,6 +34,7 @@ h2{
   font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-weight: normal;
+  margin-top: 0px;
 }
 
 p {
@@ -82,6 +83,7 @@ a{
   color: #0c0915;
   font-weight: bold;
   margin-bottom: 30px;
+  margin-top: 0px;
 }
 
 .descrip-color{
@@ -98,7 +100,7 @@ a{
   justify-content: left;
 }
 
-.fa-crab{
+.fa-squid{
   color: #0c0915;
 }
 
@@ -120,6 +122,15 @@ hr{
 
 .price-pass{
   display: flex;
-  align-items: center;
+  align-items: baseline;
   margin: 0px;
+}
+
+.title-icon {
+  display: flex;
+  align-items: baseline;
+}
+
+.fa-heart {
+  margin-right: 16px;
 }
