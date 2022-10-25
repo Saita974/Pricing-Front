@@ -3,7 +3,7 @@
   font-size: 22px;
   background-color: #2E6434;
   border-radius: 5px;
-  width: 100 %;
+  width: 352px;
   border: 0px;
   color: white;
   font-weight: bold;
@@ -14,8 +14,9 @@
 }
 
 .button-choose{
-  display: flexbox;
-  align-items: flex-end;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 24px;
 }
 
 a{
