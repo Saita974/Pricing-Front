@@ -113,7 +113,9 @@ a{
 }
 
 .descript-height{
-  margin-bottom: 25px;
+  margin-bottom: 24px;
+  display: inline-flex;
+  margin-top: 0px;
 }
 
 hr{
