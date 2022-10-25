@@ -130,7 +130,7 @@ hr{
 .price-pass{
   display: flex;
   align-items: baseline;
-  margin: 0px;
+  margin: 28px auto auto auto;
 }
 
 .title-icon {
