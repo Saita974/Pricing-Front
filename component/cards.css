@@ -75,14 +75,6 @@ a{
   margin-left: 5px;
 }
 
-#image-girl{
-  position: absolute;
-  left: -161px;
-  top: 268px;
-  /* border-bottom-right-radius: 60px 600px;
-  border-bottom-left-radius: 20%; */
-  overflow: hidden;
-}
 
 .offer-color{
   color: #0c0915;
@@ -140,4 +132,25 @@ hr{
 
 .fa-heart {
   margin-right: 16px;
+}
+
+@media screen and (max-width: 1450px) {
+  .container-presentation{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+  }
+  
+}
+
+.card-girl{
+  position: relative;
+}
+
+#image-girl{
+  position: absolute;
+  left: -161px;
+  top: 252.6px;
+  /* overflow: hidden; */
+  width: 533px;
 }
